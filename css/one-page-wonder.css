@@ -27,6 +27,10 @@ body {
     border-radius: 2px;
     font-weight: bolder;
 }
+.img2 img{
+  height: 65px;
+  width: 65px;
+}
 
 .lead{
     font-size: 2em;
